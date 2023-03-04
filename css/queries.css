@@ -59,11 +59,11 @@
     transform: translateX(0);
   }
 
-  .nav-open .icon-mobile-nav[name="close"] {
+  .nav-open .icon-mobile-nav[id="close"] {
     display: block;
   }
 
-  .nav-open .icon-mobile-nav[name="menu-hamburger"] {
+  .nav-open .icon-mobile-nav[id="menu-hamburger"] {
     display: none;
   }
 
@@ -86,7 +86,7 @@
     z-index: 999;
   }
 
-  .icon-mobile-nav[name="close"] {
+  .icon-mobile-nav[id="close"] {
     display: none;
   }
 
